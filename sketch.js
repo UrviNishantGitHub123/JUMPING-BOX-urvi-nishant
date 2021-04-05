@@ -6,7 +6,7 @@ var music;
 function preload(){
 music = loadSound("music.mp3");
 }
-
+// please copy this and paste it in the google tab so see the reseult - http://127.0.0.1:5500/
 
 function setup(){
     canvas = createCanvas(800,600);
